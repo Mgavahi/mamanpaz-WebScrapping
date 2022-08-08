@@ -1,0 +1,38 @@
+id: ایدی غذا
+chefId: ایدی سرآشپز
+name: نام غذا
+type: نوع غذا
+category: دسته بندی غذایی
+state: وضعیت غذا
+active: فعال یا غیر فعال بودن اشپز
+sellPrice:قیمت فروش غذای حال
+effectivePrice:قیمت غذای حال
+minOrderableCount: مینیمم سفارش
+acceptBelowMinCount:
+recipe: دستور پخت
+unit:واحد غذا(پرس-عدد)
+dietary:رژیمی یا غیر رژیمی 
+scoreCount:تعداد امتیاز دهنده به غذای حال
+scoreAvg:میانگین امتیاز به غذای حال
+titleTag:تگ غذا
+alias: نام سرآشپز
+district:منطقه
+tag:تگ اشپز
+vacation:وضعیت کاری
+ordersCount:تعداد کل فروش
+priceAvg:میانگین قیمت غذاهای کل فروش
+foodsCount:تعداد غذاهای فعال آشپز
+entreeCount:تعداد غذاهای وارد کرده به پیج شخصی
+sideCount:تعداد غذاهای وارد نشده به پیج شخصی
+scoreSum:مجموع امتیازات آشپز
+maxOrderableCount:ماکزیمم سفارش
+effectiveSellPrice:
+discountPercent:
+vegetarian:گیاه خواری
+description:دستور پخت
+votive:نذری
+local: 
+critique:پیشنهادات و نظرات
+occasional:
+platter: سینی
+all_comment: کامنت های کلی برای هر اشپز
